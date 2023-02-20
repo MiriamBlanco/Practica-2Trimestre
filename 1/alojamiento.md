@@ -35,3 +35,5 @@ sudo apt install php libapache2-mod-php php-mysql
 ```
 
 ![image](../imagenes/4.png)
+
+[Volver a la página principal](../README.md)
