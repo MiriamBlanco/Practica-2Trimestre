@@ -54,7 +54,7 @@ sudo service apache2 restart
 sudo tee "$python_dir/python.py" > /dev/null << EOF
 def application(environ, start_response):
     status = '200 OK'
-    output = b'Hello World!'
+    output = "<p>Bienvenido a mi <b>PythonApp</b>!!!</p>" 
 
     response_headers = [
         ('Content-type', 'text/plain'),
