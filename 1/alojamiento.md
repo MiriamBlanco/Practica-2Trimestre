@@ -1,8 +1,8 @@
 - Lo primero que debemos hacer es actualizar nuestro Ubuntu:
 
-´´´bash
+```bash
 sudo apt update && sudo apt upgrade -y
-´´´
+```
 
 - En segundo lugar instalamos `apache`:
 
@@ -22,16 +22,16 @@ sudo ufw app info "Apache Full"
 
 - Luego instalamos `mysql`:
 
-´´´bash
+```bash
 sudo apt install mysql-server
-´´´
+```
 
 ![image](../imagenes/3.png)
 
 - Por último, instalamos `php`:
 
-´´´bash
+```bash
 sudo apt install php libapache2-mod-php php-mysql
-´´´
+```
 
 ![image](../imagenes/4.png)
