@@ -16,7 +16,9 @@ sudo apt update && sudo apt install phpmyadmin
 
 - Una vez finalizada, debemos irnos al archivo de configuración `/etc/apache2/apache2.conf` y añadir la siguiente línea:
 
+```bash
 Include /etc/phpmyadmin/apache.conf
+```
 
 ![image](../imagenes/13.png)
 
