@@ -6,7 +6,7 @@ sudo apt install bind9 bind9utils bind9-doc
 
 ![image](../imagenes/21.png)
 
-- Una vez instalada,nos vamos al archivo de configuración `/etc/bind/named.conf.options` y editamos la siguiente línea:
+- Una vez instalada, nos vamos al archivo de configuración `/etc/bind/named.conf.options` y editamos la siguiente línea:
 
 ![image](../imagenes/22.png)
 
