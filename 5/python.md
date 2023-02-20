@@ -73,4 +73,8 @@ echo "La ejecución de aplicaciones Python ha sido habilitada"
 
 ![image](../imagenes/20.png)
 
+- Por último, nos vamos al navegador e introducimos la url del dominio `http://python.miriam.local`:
+
+![image](../imagenes/26.png)
+
 [Volver a la página principal](../README.md)
